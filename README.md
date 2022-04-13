@@ -1,0 +1,2 @@
+# CollegeApp
+College management system is made for manage the details of College, Faculty, Course, Batch, Session. It manages all the information about College, Student, Session, College. The purpose  of the project is to build an application program to reduce the manual work for managing the        College, Faculty, Student, Course. It tracks all the details. It has 3 modules with in that one is Student, Teacher and College Admin.
